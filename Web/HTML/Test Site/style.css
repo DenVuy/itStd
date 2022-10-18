@@ -17,8 +17,10 @@ body {
 
 header { 
 
+    margin: 0;
 
-    
+    background-color: antiquewhite;
+
 }
 
 /* ------------------------------ */
