@@ -1,5 +1,5 @@
 C:\Git\bin\git.exe status
 C:\Git\bin\git.exe add .
-C:\Git\bin\git.exe commit -m "–Ω—É —á—Ç–æ —Ç—É—Ç —Å–æ–æ–±—â–∏—Ç—å"
+C:\Git\bin\git.exe commit -m "≠„ Á‚Æ ‚„‚ ·ÆÆ°È®‚Ï"
 C:\Git\bin\git.exe push
 pause
