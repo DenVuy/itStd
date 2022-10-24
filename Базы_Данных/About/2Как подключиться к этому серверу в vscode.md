@@ -2,9 +2,15 @@
 
 А я расскажу кратко
 
-скачайте расширение sql tools
-
 В это время у вас должен быть открыт  wamp server с зеленой иконкой и авторизован под ником root
+
+Для начала у вас должен быть создана своя БД ниже будет ролик
+
+https://disk.yandex.ru/i/zaMJyQDMYMvH0A
+
+# 1 способ
+
+скачайте расширение sql tools
 
 Передите на sqltools ==> Add new connection
 
@@ -21,3 +27,13 @@
 Проверяйте, нажав на test connection >> SAVE CONNECTION >> CONNECT NOW
 
 Можете что-нибудь пописать в MySQL, то что делаете обычно на БД у Сафиуллины
+
+# 2 способ
+
+До меня дошло, ToolsSQL не особо нужен
+
+Поэтому можно через database 
+
+ссылка на видео
+
+https://disk.yandex.ru/i/Zb2ChCW7ZjND5A
