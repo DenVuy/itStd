@@ -1,0 +1,1 @@
+http://phys.bspu.unibel.by/static/lib/inf/int/htmlbook/pr_209.html
