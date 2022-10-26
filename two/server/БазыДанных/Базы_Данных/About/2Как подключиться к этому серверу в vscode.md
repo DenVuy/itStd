@@ -14,15 +14,15 @@ https://disk.yandex.ru/i/zaMJyQDMYMvH0A
 
 Передите на sqltools ==> Add new connection
 
-![image info](/Базы_Данных\About\img\unknown_2022.10.23-22.52.png)
+![image info](/two\server\БазыДанных\Базы_Данных\About\img\unknown_2022.10.23-22.52.png)
 
 Далее сюда
 
-![image info](/Базы_Данных\About\img\unknown_2022.10.23-22.55.png)
+![image info](/two\server\БазыДанных\Базы_Данных\About\img\unknown_2022.10.23-22.55.png)
 
 вводите данные как у меня
 
-![image info](/Базы_Данных\About\img\unknown_2022.10.23-23.02.png)
+![image info](/two\server\БазыДанных\Базы_Данных\About\img\unknown_2022.10.23-23.02.png)
 
 Проверяйте, нажав на test connection >> SAVE CONNECTION >> CONNECT NOW
 
