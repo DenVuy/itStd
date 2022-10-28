@@ -1,8 +1,8 @@
 Скачиваем Wamp Server по ссылке: http://www.wampserver.com/ru/
 
-![image info](/two\server\БазыДанных\Базы_Данных\About\img\unknown_2022.10.23-21.27.png)
+![image info](/2\server\БазыДанных\Базы_Данных\About\img\unknown_2022.10.23-21.27.png)
 
-![image info](/two\server\БазыДанных\Базы_Данных\About\img\unknown_2022.10.23-21.27_1.png)
+![image info](/2\server\БазыДанных\Базы_Данных\About\img\unknown_2022.10.23-21.27_1.png)
 
 Запускайте установщик и устанавливайте
 
@@ -10,7 +10,7 @@
 
 Надеюсь у всех есть chrome и указывайте путь к этому файлу
 
-![image info](/two\server\БазыДанных\Базы_Данных\About\img\Снимок.PNG)
+![image info](/2\server\БазыДанных\Базы_Данных\About\img\Снимок.PNG)
 
 Выведет ещё одно сообщение, нажимайте НЕТ
 
@@ -18,11 +18,11 @@
 
 Дождитесь такого значка до зелёного цвета и кликайте на него один раз
 
-![image info](/two\server\БазыДанных\Базы_Данных\About\img\Снимок2.PNG)
+![image info](/2\server\БазыДанных\Базы_Данных\About\img\Снимок2.PNG)
 
 ==> phpmyadmin (По-моему без разницы какая версия)
 
-![image info](/two\server\БазыДанных\Базы_Данных\About\img\Снимокэкрана(13).png)
+![image info](/2\server\БазыДанных\Базы_Данных\About\img\Снимокэкрана(13).png)
 
 жмите ВПЕРЁД
 
