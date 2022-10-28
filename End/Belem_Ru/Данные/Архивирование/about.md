@@ -21,9 +21,6 @@
 
 ### Как сжимаются файлы: 
     - [Короткое видео](https://www.youtube.com/watch?v=ArUqn7vBB4M)
-    - 
-
-
 
 ### Виды архивирования: 
 - [Zopfli](https://habr.com/ru/post/171181/)

@@ -1,5 +1,10 @@
 # Работа с Markdown в VS code 
 
+
+<link href="/.vscode/style_md.css" rel="stylesheet"></link>
+
+
+
 - [Изучить оф материал](https://code.visualstudio.com/docs/languages/markdown)
 
 
@@ -12,3 +17,16 @@
 2. Поиск по слову 
 
 
+<style>
+mark{
+    color:red;
+}
+</style>
+
+<mark>what is DataBase</mark>
+
+
+https://stackoverflow.com/questions/27174946/how-to-use-css-in-markdown  - css в markwown 
+
+
+https://www.w3schools.io/file/markdown-introduction/ - туториалы
