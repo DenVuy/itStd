@@ -1,3 +1,12 @@
-h1 { 
-    color: red;
+/* переменные */ 
+:root {
+    --header_red:rgb(174, 16, 16);
 }
+
+
+  
+
+h1 { 
+    color: var(--header_red);
+}
+
