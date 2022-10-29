@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+
+		"window.zoomLevel": 2,
+
+		"workbench.colorCustomizations": {
+			"[Monokai]": {
+				"sideBar.background": "#41033e92",
+				"activityBar.background": "#1f0f2f",
+				"editor.background": "#17172f",
+				"activityBar.border": "#ef8a50",
+				"editorCommentsWidget.rangeBorder": "#229977",
+				"editor.lineHighlightBorder": "#34bd5d",
+				"editorIndentGuide.background": "#8748eb",
+				"editorIndentGuide.activeBackground": "#fffb00"
+			}
+		}
+	}
+}

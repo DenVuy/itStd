@@ -1,14 +1,22 @@
 {
 
+
+
     //--------------------------------------------------------------------------------
     //----------------------------------START-----------------------------------------
     //--------------------------------------------------------------------------------
 
 
-
     "editor.snippetSuggestions": "top",               //  Снипетты первые выходят
     "markdown.styles": [".vscode/style_md.css"],      //  Подлючение стилей для markdown 
-
+    //"editor.snippets.codeActions.enabled": true,
+    "editor.minimap.enabled": false,  //миникарта есть/нет
+    "files.autoSave": "onFocusChange", //автосохранение после_задержки/после_переключения_файла
+    
+    //масштаб редактора 
+    "window.zoomLevel": -1, //  Можно посмотреть изменения изменяя масштаб масштаб         
+    
+    "workbench.statusBar.visible": true, // видна ли строка состояния внизу true/false
 
 
     //  ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   
@@ -21,10 +29,11 @@
         "comments": false,
         "strings": true, 
       },
+      "editor.tabCompletion": "off",
       "editor.formatOnSave": true,                    //  Форматирование markdown 
       "editor.wordWrap": "on",                
       "editor.renderWhitespace": "all",
-      "editor.acceptSuggestionOnEnter": "off"
+      "editor.acceptSuggestionOnEnter": "on", 
     },
 
 
@@ -72,4 +81,5 @@
     //-----------------------------------END------------------------------------------
     //--------------------------------------------------------------------------------
 }
+
 
