@@ -1,14 +1,22 @@
 {
+
+	//Включенные папки в рабочее пространство (workspace)
 	"folders": [
 		{
-			"path": ".."
-		}
+			"path": "/users/denvuy/Git/itStd"
+		},
 	],
+	
+	//Настройки редактора
 	"settings": {
+		"files.autoSave": "onFocusChange",
+		"window.zoomLevel": -1,
+		"workbench.statusBar.visible": true,
 
-		"window.zoomLevel": 2,
-
+		//Настройки цветового оформления
 		"workbench.colorCustomizations": {
+
+			//Тема Monokai
 			"[Monokai]": {
 				"sideBar.background": "#41033e92",
 				"activityBar.background": "#1f0f2f",
@@ -18,7 +26,12 @@
 				"editor.lineHighlightBorder": "#34bd5d",
 				"editorIndentGuide.background": "#8748eb",
 				"editorIndentGuide.activeBackground": "#fffb00"
-			}
+			},
+
 		}
+
+
 	}
+
+
 }
