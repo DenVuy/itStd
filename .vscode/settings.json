@@ -1,15 +1,75 @@
 {
-    "editor.snippetSuggestions": "top",
-    "markdown.styles": [".vscode/style_md.css"],
 
-    "[markdown]": {
+    //--------------------------------------------------------------------------------
+    //----------------------------------START-----------------------------------------
+    //--------------------------------------------------------------------------------
+
+
+
+    "editor.snippetSuggestions": "top",               //  Снипетты первые выходят
+    "markdown.styles": [".vscode/style_md.css"],      //  Подлючение стилей для markdown 
+
+
+
+    //  ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   
+
+
+
+    "[markdown]": {                                   //  Настройки markdown
       "editor.quickSuggestions": {
         "other": true,
         "comments": false,
-        "strings": true
+        "strings": true, 
       },
+      "editor.formatOnSave": true,                    //  Форматирование markdown 
+      "editor.wordWrap": "on",                
+      "editor.renderWhitespace": "all",
+      "editor.acceptSuggestionOnEnter": "off"
     },
 
+
+
+    //  ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   
+
+
+
       "editor.tabCompletion": "on",
+
+
+
+    //  ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   
+
+
+
+      "workbench.colorCustomizations": { 
+
+            /*  -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -      
+      
+        "[Xcode Partial (Dark)]": {                   //Настройка темы "  Xcode Partial  "
+          "editor.lineHighlightBorder": "#36e96c",
+          "editor.background": "#17172f",
+          "editor.selectionBackground": "#6d754e",
+          "editor.foreground": "#e79999" 
+        },
+
+            //  -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   */
+
+        "[Monokai]": {                                //Настройка темы "  Monikai  "
+          "sideBar.background": "#41033e92",
+          "activityBar.background": "#1f0f2f", 
+          "editor.background": "#17172f",
+          "activityBar.border": "#ef8a50", 
+          "editorCommentsWidget.rangeBorder": "#229977",
+          "editor.lineHighlightBorder": "#34bd5d",
+          "editorIndentGuide.background": "#8748eb",
+          "editorIndentGuide.activeBackground": "#fffb00", 
+        } 
+      }, 
+
+
+
+    //--------------------------------------------------------------------------------
+    //-----------------------------------END------------------------------------------
+    //--------------------------------------------------------------------------------
 }
 
