@@ -2,7 +2,7 @@
 
 ## Что такое Git 
 
-> #### Можно почитать [тут](/two/Работа/git/Git/about.md)
+> #### Можно почитать [тут](/2/Работа/git/Git/about.md)
 
 
 <br></br>
@@ -18,17 +18,17 @@
 
 3. Если просят выбрать путь для установки, то устанавливайте в C:, чтобы в будущем для написания .bat файлов(Если мы будем это делать) не было проблем.
 
-![image info](/two/Работа/git/Git/img/choise_path.png)
+![image info](/2/Работа/git/Git/img/choise_path.png)
 
-4. В этом пункте выбираем Use Visual Studio Code as Git's default editor
+1. В этом пункте выбираем Use Visual Studio Code as Git's default editor
 
-![image info](/two/Работа/git/Git/img/use_vscode.png)
+![image info](/2/Работа/git/Git/img/use_vscode.png)
 
-5. Next...next...next... и так до конца Next
+1. Next...next...next... и так до конца Next
 
-6. В конце Install 
+2. В конце Install 
 
-7. Открыть коммандную строку  
+3. Открыть коммандную строку  
 ```
     Win + R   
     Внутри пишем cmd 
@@ -50,9 +50,9 @@ git --help
    git config --global user.email <_пиши_свою_почту_которую_ты_регистрировал_в_Git_>
 
 ```
-![image info](/two/Работа/git/Git/img/cmd_view_example.png)
+![image info](/2/Работа/git/Git/img/cmd_view_example.png)
 
-![image info](/two/Работа/git/Git/img/git_view.png)
+![image info](/2/Работа/git/Git/img/git_view.png)
 
 
 
