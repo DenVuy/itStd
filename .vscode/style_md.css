@@ -20,19 +20,19 @@ h1 {
     color: var(--header_red);
 }
 
-h2 { 
+h2 {
     color: rgba(248, 152, 42, 0.787);
 }
 
-h3 { 
+h3 {
     color: rgb(255, 225, 52);
 }
 
-h4 { 
+h4 {
     color: rgb(163, 245, 48);
 }
 
-h5 { 
+h5 {
     color: rgb(133, 48, 245);
 }
 
@@ -43,7 +43,7 @@ img {
     min-width: 100px;
 }
 
-box { 
+box {
     border-radius: 25px;
     border: 8px red;
     background-color: rgba(38, 36, 34, 0.417);
@@ -53,7 +53,7 @@ box {
     justify-content: center;
 }
 
-box_al { 
+box_al {
     height: max-content;
     border-radius: 25px;
     display: flex;
@@ -62,12 +62,12 @@ box_al {
     justify-content: center;
     text-align: center;
 
-    background-color:rgba(117, 12, 12, 0.643);
+    background-color: rgba(117, 12, 12, 0.643);
     margin: 15px;
     width: 90%;
 }
 
-text_wrap { 
+text_wrap {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -75,6 +75,6 @@ text_wrap {
     text-align: center;
 }
 
-p { 
+p {
     padding-top: 4px;
 }

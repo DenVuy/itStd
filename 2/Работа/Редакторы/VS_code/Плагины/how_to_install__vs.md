@@ -14,24 +14,5 @@
 ![img_plgs_in_vs][id_1]:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [id_0]:/two/Работа/Редакторы/VS_code/Плагины/img/plugns_vs_code.png
 [id_1]:/two/Работа/Редакторы/VS_code/Плагины/img/plgs_srch_vs.png

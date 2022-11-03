@@ -106,7 +106,7 @@
 ## Для связи по вопросам и предложениям: 
 > #### *Телеграмм:* [Ссылка на общий чат](https://t.me/+K7H2ORWaPH40YTFi)
 
-![image info](/info/img/Чат_вид.png)
+![image info](0/img/Чат_вид.png)
 
 <br></br>
 <br></br>

@@ -1,0 +1,51 @@
+{
+    //Включенные папки в рабочее пространство (workspace)
+    "folders": [
+        {
+            "path": "/users/denvuy/Git/itStd/2/Работа/Редакторы/VS_code"
+        },
+        {
+            "path": "/users/denvuy/Git/itStd/.vscode"
+        },
+        {
+            "path": "/users/denvuy/Git/itStd/0/0_Репозиторий/0_Первый_шаг"
+        },
+        {
+            "path": "/users/denvuy/Git/itStd/0/0_Репозиторий/1_Инфа"
+        },
+        {
+            "path": "/users/denvuy/Git/itStd/0/0_Репозиторий/2_Заполнение"
+        },
+        {
+            "path": "/users/denvuy/Git/itStd/1"
+        },
+        {
+            "path": "/users/denvuy/Git/itStd/2/Работа/Автоматизация"
+        },
+        {
+            "path": "/users/denvuy/Git/itStd/2/Работа/Git"
+        }
+    ],
+    //Настройки редактора
+    "settings": {
+        "files.autoSave": "onFocusChange",
+        "window.zoomLevel": -1,
+        "workbench.statusBar.visible": true,
+        "editor.snippetSuggestions": "top", //  Снипетты первые выходят
+        //"editor.snippets.codeActions.enabled": true,
+        "editor.minimap.enabled": false, //миникарта есть/нет
+        //масштаб редактора 
+        "[markdown]": { //  Настройки markdown
+            "editor.quickSuggestions": {
+                "other": true,
+                "comments": false,
+                "strings": true,
+            },
+            "editor.tabCompletion": "off",
+            "editor.formatOnSave": true, //  Форматирование markdown 
+            "editor.wordWrap": "on",
+            "editor.renderWhitespace": "all",
+            "editor.acceptSuggestionOnEnter": "on",
+        }
+    },
+}
