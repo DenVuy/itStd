@@ -5,12 +5,15 @@
 		{
 			"path": "/users/denvuy/Git/itStd"
 		},
+		{ 
+			"path": "/users/denvuy/Git/itStd"
+		}
 	],
 	
 	//Настройки редактора
 	"settings": {
 		"files.autoSave": "onFocusChange",
-		"window.zoomLevel": -1,
+		"window.zoomLevel": 0,
 		"workbench.statusBar.visible": true,
 
 		//Настройки цветового оформления
