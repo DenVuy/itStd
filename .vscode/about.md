@@ -131,7 +131,7 @@
 3. И нажать на свой workspace 
 4. Выйдет кнопка "Открыть рабочую область"
 
-![img_btn](/.vscode/img/btn.png)
+ ![img_btn](/.vscode/img/btn.png)
 ---
 > #### Вариант 2
 1. В консоли перейти в папку workspace  
