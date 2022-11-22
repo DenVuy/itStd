@@ -272,13 +272,14 @@ body {
 	margin-bottom: 90px;
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
-	grid-template-rows: repeat(8, 180px);
+	/*grid-template-rows: repeat(8, 180px);*/
 	gap: var(--grid-gap);
 }
 
 .post-grid__item:nth-child(5n+1) {
 	grid-column: 2 span;
 	grid-row: 2 span;
+	min-height: 400px;
 }
 
 .post-grid__item:nth-child(5n+2) {
@@ -395,18 +396,18 @@ body {
 	margin-right: 20px;
 }
 
-.pagination__link {
+.pagination__item span {
 	position: relative;
 	font-size: 18px;
 	line-height: 23px;
 	color: #000;
 }
 
-.pagination__link--current {
+.pagination__item--current span {
 	color: var(--accent-color);
 }
 
-.pagination__link--current::after {
+.pagination__item--current span::after 	{
 	content: "";
 	position: absolute;
 	left: 0;
